@@ -13,7 +13,7 @@ const verifyToken = require('./jwt/jwt_decode');
 
 var app = express();
 
-//ต่อหน้าบ้านกับหลังบ้าน
+//เอาไว้ต่อหน้าบ้านกับหลังบ้าน
 // var cors = require('cors')
 // app.use(cors())
 
